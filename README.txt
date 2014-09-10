@@ -1,7 +1,13 @@
 This repository contains screen-shots of the end-product of my internship.
 
-The 3 mobile images are for the Android application running. It is triggered to ask these questions based on specific sensor values.
+The goal was to create an Android application which will be used in a research study to understand the behavior and/or routine of the user.
 
-The 3 website images are form the researcher site to view the data collected. Some of the data is in a scatter plot, some is in a table, and the location data is displayed on a map.
+The app collects data from multiple device sensors. Multiple contexts - including screen locking and an approved change in activity, such as walking to staying still - trigger the app to ask the user specific questions. The data is not only stored locally on the device, but is also synchronized with a server daily.
 
-I created the Android application as well as the back- and front-end of the wesite.
+The 3 mobile images are of the Android application. These are the context-triggered questions.
+
+The 3 website images are from the researcher site to browse the collected user data. Numerical data is presented as a scatter plot, location data is displayed on a map and raw data tables are available too.
+
+I was the primary developer for the Android application and for the website back-end and front-end.
+
+Note: Critical data is blacked out in images.
